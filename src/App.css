@@ -1,0 +1,8 @@
+:root{
+    --sidebar-color : #000747;
+    --homepage-color: #000087;
+}
+
+.App{
+    max-width:100%;
+}
